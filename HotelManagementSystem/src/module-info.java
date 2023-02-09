@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author kodir
+ *
+ */
+module HotelManagementSystem {
+}
